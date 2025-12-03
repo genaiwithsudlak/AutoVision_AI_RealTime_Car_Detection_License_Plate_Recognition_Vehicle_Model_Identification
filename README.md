@@ -32,24 +32,6 @@ Result Renderer (Text + Bounding Boxes)
    ↓
 Streamlit Output
 
-📁 Folder Structure
-AutoVision-LPR/
-│── app/
-│   ├── ui/
-│   │   ├── streamlit_app.py
-│   ├── inference/
-│   │   ├── plate_detector.py
-│   │   ├── ocr_engine.py
-│   │   ├── postprocessor.py
-│   ├── services/
-│   │   ├── pipeline.py
-│── models/
-│   ├── plate_detector.pt
-│   ├── trocr/
-│── data/
-│── README.md
-│── requirements.txt
-
 🔧 Installation
 git clone https://github.com/yourusername/AutoVision-LPR.git
 cd AutoVision-LPR
